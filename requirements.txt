@@ -1,0 +1,22 @@
+streamlit
+langchain
+openai
+# typing
+langchain_core
+# azure.ai
+# azure.core
+# azure
+langgraph
+datetime
+pytz
+# sqlite3
+# shutil
+# os
+pandas
+requests
+typing_extensions
+pydantic
+langchain_openai
+exa_py
+azure-ai-inference
+langgraph.checkpoint.sqlite

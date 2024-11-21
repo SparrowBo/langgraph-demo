@@ -1,0 +1,11 @@
+/data/
+**/__pycache__/
+*.model
+*.log
+*.db
+config.py
+*.sqlite*
+/build/
+/dist/
+*.spec
+/myenv/
